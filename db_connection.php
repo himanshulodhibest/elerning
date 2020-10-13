@@ -4,7 +4,7 @@
 $db_host = "localhost";
 $db_user = "root"; 
 $db_password = "";
-$db_name = "elerning_DB";
+$db_name = "elerning_db";
 $db_port = 3306;
 
 // create connection
