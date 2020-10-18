@@ -1,7 +1,7 @@
 <?php
 include("header.php");
+include('db_connection.php');
 ?>
-
 
 <!-- start carasol -->
 <div class="container mt-4">
@@ -35,6 +35,9 @@ include("header.php");
       <div class="row">
         <div class="col-md-4">
           <div class="card mb-2">
+          
+          
+
             <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(34).jpg"
               alt="Card image cap">
             <div class="card-body">
@@ -178,12 +181,3 @@ include("header.php");
 
 
 </div>
-
-
-
-
-
-
-<?php
-include("footer.php");
-?>
